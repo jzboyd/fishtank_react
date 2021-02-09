@@ -7,7 +7,7 @@ import { Button, Input, Text } from 'react-native-elements';
 const Home = () => {
     return (
         <View>
-            <Text>Home Screen</Text>
+            <Text>Home Screen 2</Text>
         </View>
     )
 }
